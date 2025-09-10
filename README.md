@@ -1,4 +1,4 @@
-![GitHub Avatar](https://avatars.githubusercontent.com/u/your-github-user-id?v=4)
+![GitHub Avatar](https://avatars.githubusercontent.com/u/120439307?v=4)
 
 # 👋 Hi, I'm Khalid Ahmed
 
