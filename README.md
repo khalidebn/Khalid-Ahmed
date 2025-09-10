@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Khalid Ahmed
 
-Fresh Master's graduate in **Cybersecurity** | Python Enthusiast | CTF Solver | Football Fan
+Fresh Master's graduate in **Cybersecurity** | Python Enthusiast | CTF Solver | Penetration Testing +
 
 ---
 
